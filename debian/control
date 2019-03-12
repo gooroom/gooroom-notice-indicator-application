@@ -1,0 +1,29 @@
+Source: gooroom-notice-indicator-application
+Section: utils
+Priority: optional
+Maintainer: gooroom <gooroom@gooroom.kr>
+Build-Depends: debhelper (>= 9),
+ autotools-dev,
+ autoconf,
+ automake,
+ intltool,
+ libtool,
+ xfce4-dev-tools,
+ dh-autoreconf,
+ pkg-config,
+ libgtk-3-dev,
+ libglib2.0-dev,
+ libdbusmenu-gtk3-dev,
+ libappindicator3-dev,
+ libwebkit2gtk-4.0-dev,
+ libjson-c-dev,
+ libnotify-dev
+Standards-Version: 3.9.8
+Homepage: http://www.gooroom.kr
+Vcs-Browser: https://git.gooroom.kr/gooroom-notice-indicator-application.git
+
+Package: gooroom-notice-indicator-application
+Architecture: any
+Depends: ${misc:Depends}, yad
+Description: Application indicator program for notice-action
+ Notice application provides general notice and urgency notice.

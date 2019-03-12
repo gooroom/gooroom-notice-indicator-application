@@ -1,0 +1,28 @@
+# Korean translations for gooroom-notice-indicator-application package.
+# Copyright (C) 2016 THE gooroom-notice-indicator-application'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the gooroom-notice-indicator-application package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gooroom-notice-indicator-application 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-12 09:12+0000\n"
+"Language-Team: Korean\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "other %d cases"
+msgid_plural "other %d cases"
+msgstr[0] "%d other cases"
+
+msgid "Notice"
+msgstr "Notice"
+
+msgid "detail view"
+msgstr "detail view"
+
+msgid "Close"
+msgstr "Close"
