@@ -24,6 +24,6 @@ Vcs-Browser: https://git.gooroom.kr/gooroom-notice-indicator-application.git
 
 Package: gooroom-notice-indicator-application
 Architecture: any
-Depends: ${misc:Depends}, yad
+Depends: ${misc:Depends}
 Description: Application indicator program for notice-action
  Notice application provides general notice and urgency notice.
