@@ -1,3 +1,12 @@
+gooroom-notice-indicator-application (0.1.2+grm1u1) unstable; urgency=medium
+
+  [ donghun ]
+  * [c3ae9c08] Update sources regarding copyright
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Fri, 06 Dec 2019 12:21:46 +0900
+
 gooroom-notice-indicator-application (0.1.1+grm1u1) unstable; urgency=medium
 
   [ DongHun Lee ]
